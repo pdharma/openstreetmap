@@ -84,7 +84,7 @@ var mapping = {
     'fast_food':                ['fast_food'],
     'food_court':               ['food_court'],
     'ice_cream':                ['ice_cream'],
-    'marketplace':              ['market_place'],
+    'marketplace':              ['marketplace'],
     'restaurant':               ['restaurant'],
 
     'bus_station':              ['bus_station'],
@@ -297,7 +297,7 @@ var mapping = {
     'butcher':                  ['butcher'],
     'cheese':                   ['cheese'],
     'chocolate':                ['chocolate'],
-    'coffee':                   ['coffe'],
+    'coffee':                   ['coffee'],
     'deli':                     ['deli'],
     'greengrocer':              ['greengrocer'],
     'seafood':                  ['seafood'],
