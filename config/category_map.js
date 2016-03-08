@@ -324,7 +324,7 @@ var mapping = {
     'canadian_football':        ['canadian_football'],
     'chess':                    ['chess'],
     'cricket':                  ['cricket'],
-    'dog_racing':               ['doc_racing'],
+    'dog_racing':               ['dog_racing'],
     'field_hockey':             ['field_hockey'],
     'gaelic_games':             ['gaelic_games'],
     'horse_racing':             ['horse_racing'],
