@@ -162,7 +162,7 @@ var mapping = {
     'sausage':                  ['food:sausage'],
     'savory_pancakes':          ['food:savory_pancakes'],
     'seafood':                  ['food:seafood'],
-    'steak_house':              ['food:steak'],
+    'steak_house':              ['food:steak_house'],
     'sub':                      ['food:sub'],
     'sushi':                    ['food:sushi'],
     'tapas':                    ['food:tapas'],
