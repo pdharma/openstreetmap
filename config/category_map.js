@@ -142,7 +142,7 @@ var mapping = {
     'curry':                    ['food:curry'],
     'dessert':                  ['food:dessert'],
     'donut':                    ['food:donut'],
-    'doughnut':                 ['food:donut'],
+    'doughnut':                 ['food:doughnut'],
     'empanada':                 ['food:empanada'],
     'fish':                     ['food:fish'],
     'fish_and_chips':           ['food:fish_and_chips'],
